@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Blue Marble
 // @namespace    https://github.com/RELMYMathieu/
-// @version      0.79.2
+// @version      0.80.0
 // @description  A userscript to automate and/or enhance the user experience on Wplace.live. Make sure to comply with the site's Terms of Service, and rules! This script is not affiliated with Wplace.live in any way, use at your own risk. This script is not affiliated with TamperMonkey. The author of this userscript is not responsible for any damages, issues, loss of data, or punishment that may occur as a result of using this script. This script is provided "as is" under the MPL-2.0 license. The "Blue Marble" icon is licensed under CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. The image is owned by NASA.
 // @author       SwingTheVine, fork by RELMYMathieu
 // @license      MPL-2.0
 // @supportURL   none (fork, direct contact : houahoua on Discord for any questions)
 // @homepageURL  https://github.com/RELMYMathieu/Wplace-BlueMarble
-// @icon         https://raw.githubusercontent.com/SwingTheVine/Wplace-BlueMarble/8b7b7826300fad2c543b674956f4319bb3c162c3/dist/assets/Favicon.png
+// @icon         https://raw.githubusercontent.com/SwingTheVine/Wplace-BlueMarble/c66071c30a9a0d820beb7dd5eefd7466395f90d3/dist/assets/Favicon.png
 // @updateURL    https://raw.githubusercontent.com/RELMYMathieu/Wplace-BlueMarble/main/dist/BlueMarble.user.js
 // @downloadURL  https://raw.githubusercontent.com/RELMYMathieu/Wplace-BlueMarble/main/dist/BlueMarble.user.js
 // @run-at       document-end
