@@ -17,7 +17,7 @@
 // @grant        GM.setValue
 // @grant        GM_getValue
 // @grant        GM_xmlhttpRequest
-// @connect		 *  
+// @connect		 *
 // @resource     CSS-BM-File https://raw.githubusercontent.com/RELMYMathieu/Wplace-BlueMarble/refs/heads/main/dist/BlueMarble.user.css
 // ==/UserScript==
 
