@@ -10,7 +10,7 @@
 // @icon         https://raw.githubusercontent.com/SwingTheVine/Wplace-BlueMarble/8b7b7826300fad2c543b674956f4319bb3c162c3/dist/assets/Favicon.png
 // @updateURL    https://raw.githubusercontent.com/RELMYMathieu/Wplace-BlueMarble/main/dist/BlueMarble.user.js
 // @downloadURL  https://raw.githubusercontent.com/RELMYMathieu/Wplace-BlueMarble/main/dist/BlueMarble.user.js
-// @run-at       document-start
+// @run-at       document-end
 // @match        *://*.wplace.live/*
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
