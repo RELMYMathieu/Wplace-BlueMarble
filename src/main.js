@@ -69,7 +69,7 @@ inject(() => {
 
   // Spys on "spontaneous" fetch requests made by the client
   const originalFetch = window.fetch; // Saves a copy of the original fetch
-
+/*
   // Overrides fetch
   window.fetch = async function(...args) {
 
@@ -155,6 +155,7 @@ inject(() => {
 
     return response; // Returns the original response
   };
+  */
 });
 
 // Imports the CSS file from dist folder on github
