@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><a href="#blue-marble">Blue Marble</a></td>
+    <td><a href="#blue-marble">Blue Marble - Don't use this one please :D</a></td>
     <td valign="top" rowspan="99"><a href="https://discord.gg/tpeBPy46hf"><img alt="Discord Banner" src="https://discord.com/api/guilds/796124137042608188/widget.png?style=banner4"></a></td>
   </tr>
   <tr>
