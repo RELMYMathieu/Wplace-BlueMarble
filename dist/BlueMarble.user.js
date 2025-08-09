@@ -7,7 +7,7 @@
 // @license      MPL-2.0
 // @supportURL   none (fork, direct contact : houahoua on Discord for any questions)
 // @homepageURL  https://github.com/RELMYMathieu/Wplace-BlueMarble
-// @icon         https://raw.githubusercontent.com/SwingTheVine/Wplace-BlueMarble/8b7b7826300fad2c543b674956f4319bb3c162c3/dist/assets/Favicon.png
+// @icon         https://raw.githubusercontent.com/SwingTheVine/Wplace-BlueMarble/c66071c30a9a0d820beb7dd5eefd7466395f90d3/dist/assets/Favicon.png
 // @updateURL    https://raw.githubusercontent.com/RELMYMathieu/Wplace-BlueMarble/main/dist/BlueMarble.user.js
 // @downloadURL  https://raw.githubusercontent.com/RELMYMathieu/Wplace-BlueMarble/main/dist/BlueMarble.user.js
 // @run-at       document-end
